@@ -18,10 +18,16 @@ export const Header = (props) => {
                   Learn More
                 </a>{' '}
                 <a
+                  href='mailto:jomens@ucsd.edu?subject=CAPCHD%20Account%20Request'
+                  className='btn btn-custom btn-lg page-scroll'
+                >
+                  Sign up
+                </a>{' '}
+                <a
                   href='https://capchd-dev.com/'
                   className='btn btn-custom btn-lg page-scroll'
                 >
-                  Sign up/Log in
+                  Log in
                 </a>{' '}
               </div>
             </div>

@@ -26,8 +26,13 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
           <li>
+              <a href='mailto:jomens@ucsd.edu?subject=CAPCHD%20Account%20Request' className='page-scroll'>
+                Sign up
+              </a>
+            </li>
+            <li>
               <a href='https://capchd-dev.com/' className='page-scroll'>
-                Sign up/Log in
+                Log in
               </a>
             </li>
             <li>
