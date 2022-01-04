@@ -25,6 +25,11 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
+          <li>
+              <a href='https://capchd-dev.com/' className='page-scroll'>
+                Sign up/Log in
+              </a>
+            </li>
             <li>
               <a href='#about' className='page-scroll'>
                 About
